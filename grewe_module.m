@@ -3,7 +3,7 @@
 % Analysis, 2017
 % This script uses cells that can be run separately. Uses Xcorr, 
 % which is part of the signal processing toolbox!
-% by Jan Grewe, Uni Tuebingen
+
 
 %% Looking at the raw data
 clear
